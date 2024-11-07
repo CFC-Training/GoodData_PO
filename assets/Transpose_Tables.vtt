@@ -1,0 +1,61 @@
+﻿WEBVTT
+
+00:00:00.150 --> 00:00:02.750
+Para começar, adicione uma nova folha 
+
+00:00:02.750 --> 00:00:04.830
+ao ficheiro Excel na parte inferior. Clique duas vezes para
+
+00:00:04.830 --> 00:00:06.590
+nomeá-la "Tabela Estruturada".
+
+00:00:08.593 --> 00:00:11.033
+Selecione os dados na coluna A clicando
+
+00:00:11.033 --> 00:00:13.633
+e arrastando o cursor sobre ela desde a linha
+
+00:00:13.633 --> 00:00:16.353
+um à sete, clique com o botão direito e selecione copiar.
+
+00:00:17.924 --> 00:00:19.884
+Vá para a sua nova folha e clique com o botão direito do rato 
+
+00:00:19.884 --> 00:00:22.644
+na célula A1. Nas opções de colar, selecione 
+
+00:00:22.644 --> 00:00:25.444
+Transpor. Os dados armazenados em linhas são agora
+
+00:00:25.444 --> 00:00:27.324
+copiados para várias colunas.
+
+00:00:43.237 --> 00:00:45.997
+Agora selecione todos os dados, copie e cole
+
+00:00:45.997 --> 00:00:48.837
+na nova folha na célula A2, novamente
+
+00:00:48.837 --> 00:00:50.877
+usando a opção Transpor de colar.
+
+00:00:53.673 --> 00:00:55.873
+Agora os seus dados estão formatados corretamente para
+
+00:00:55.873 --> 00:00:58.273
+linhas e colunas. Só precisa de mudar
+
+00:00:58.273 --> 00:01:01.233
+o valor em A1 de "dados" para "ano", para 
+
+00:01:01.233 --> 00:01:02.993
+que a coluna fique corretamente rotulada.
+
+00:01:03.457 --> 00:01:06.217
+Finalmente, selecione todos os seus dados e formate
+
+00:01:06.217 --> 00:01:08.337
+para uma tabela usando um dos métodos
+
+00:01:08.337 --> 00:01:10.137
+que aprendeu no exercício anterior.

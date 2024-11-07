@@ -1,0 +1,121 @@
+﻿WEBVTT
+
+00:00:00.190 --> 00:00:01.990
+Digamos que quer calcular a quantidade
+
+00:00:01.990 --> 00:00:04.030
+total de avistamentos para este tipo de rã
+
+00:00:05.517 --> 00:00:07.997
+Comece a sua fórmula com um sinal de igual e
+
+00:00:07.997 --> 00:00:09.037
+escreva o nome da função
+
+00:00:10.716 --> 00:00:12.396
+A função que queremos usar é a soma 
+
+00:00:12.396 --> 00:00:14.636
+ou adição.  Comece com a mesma soma,
+
+00:00:15.084 --> 00:00:17.044
+em seguida, selecione as células ou escreva as
+
+00:00:17.044 --> 00:00:20.004
+referências dentro dos parênteses. Termine 
+
+00:00:20.004 --> 00:00:21.524
+fechando os parênteses.
+
+00:00:22.345 --> 00:00:24.785
+Quando a sua fórmula estiver completa, prima
+
+00:00:24.785 --> 00:00:26.545
+Enter e já está
+
+00:00:27.888 --> 00:00:29.608
+Vamos agora ver uma fórmula mais complicada
+
+00:00:29.608 --> 00:00:31.816
+Se quiser contar a quantidade de 
+
+00:00:31.816 --> 00:00:33.696
+ocorrências em que esta espécie de rã foi
+
+00:00:33.696 --> 00:00:35.976
+registada a um nível de confiança elevado,
+
+00:00:35.976 --> 00:00:37.416
+pode usar a função Contar SE.
+
+00:00:37.920 --> 00:00:39.280
+Clique na célula onde quer que o
+
+00:00:39.280 --> 00:00:40.160
+resultado apareça
+
+00:00:40.584 --> 00:00:42.344
+Introduza Equals COUNTIF para começar a sua
+
+00:00:42.344 --> 00:00:42.824
+fórmula
+
+00:00:43.784 --> 00:00:45.664
+Em seguida, selecione o intervalo que contém os
+
+00:00:45.664 --> 00:00:47.344
+nomes de espécies, coluna A
+
+00:00:48.048 --> 00:00:50.448
+Introduza uma vírgula e, em seguida, entre aspas,
+
+00:00:50.448 --> 00:00:52.488
+especifique o nome da espécie em que está
+
+00:00:52.488 --> 00:00:53.208
+interessado
+
+00:00:53.592 --> 00:00:56.352
+Como pode ver, o Excel fornecerá uma dica
+
+00:00:56.352 --> 00:00:58.632
+abaixo da fórmula, guiando-o através
+
+00:00:58.632 --> 00:00:59.992
+do formato de escrita correto
+
+00:01:00.504 --> 00:01:03.144
+Para continuar, escreva outra vírgula para adicionar o
+
+00:01:03.144 --> 00:01:05.544
+2.º intervalo de critérios, que seria o
+
+00:01:05.544 --> 00:01:07.264
+nível de confiança da coluna B na
+
+00:01:07.264 --> 00:01:07.904
+folha de cálculo
+
+00:01:08.328 --> 00:01:10.808
+Introduza a vírgula final e entre aspas
+
+00:01:10.808 --> 00:01:13.608
+coloque o nível de confiança desejado "
+
+00:01:13.608 --> 00:01:14.008
+Alto"
+
+00:01:14.711 --> 00:01:16.671
+Arraste o canto da célula para baixo para
+
+00:01:16.671 --> 00:01:18.911
+replicar a fórmula. Em seguida, ajuste o
+
+00:01:18.911 --> 00:01:21.111
+nível de confiança dentro das aspas para "
+
+00:01:21.231 --> 00:01:23.831
+Médio" ou "Baixo" para
+
+00:01:23.831 --> 00:01:25.311
+obtenha as respetivas contagens

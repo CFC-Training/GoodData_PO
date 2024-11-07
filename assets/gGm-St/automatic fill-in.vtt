@@ -1,0 +1,49 @@
+﻿WEBVTT
+
+00:00:00.213 --> 00:00:02.253
+Suponha que tem uma série de números ou
+
+00:00:02.253 --> 00:00:04.173
+datas que precisa de inserir consecutivamente
+
+00:00:05.813 --> 00:00:08.133
+Neste caso, vamos criar uma nova coluna
+
+00:00:08.133 --> 00:00:08.773
+para o ano
+
+00:00:09.721 --> 00:00:12.481
+Introduza o valor inicial numa célula igual a
+
+00:00:12.481 --> 00:00:13.841
+ano F2
+
+00:00:18.686 --> 00:00:20.846
+Passe o cursor sobre o pequeno quadrado
+
+00:00:20.846 --> 00:00:22.806
+no canto inferior direito da célula
+
+00:00:22.846 --> 00:00:24.566
+até se transformar numa cruz negra
+
+00:00:25.214 --> 00:00:27.654
+Clique e arraste a cruz para baixo ou através
+
+00:00:27.654 --> 00:00:29.694
+e o Excel preencherá automaticamente a
+
+00:00:29.694 --> 00:00:30.454
+série para si
+
+00:00:31.420 --> 00:00:33.180
+Também pode fazer isso clicando duas vezes
+
+00:00:33.180 --> 00:00:33.580
+na célula
+
+00:00:36.420 --> 00:00:39.260
+Como pode ver, não há necessidade de inserir manualmente
+
+00:00:39.260 --> 00:00:41.740
+cada valor, o Excel faz o trabalho por si

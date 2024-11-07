@@ -1,0 +1,85 @@
+﻿WEBVTT
+
+00:00:00.190 --> 00:00:02.390
+Primeiro, vamos começar por selecionar os
+
+00:00:02.390 --> 00:00:03.910
+dados a que deseja aplicar 
+
+00:00:03.910 --> 00:00:04.630
+formatação condicional
+
+00:00:05.118 --> 00:00:07.078
+Vamos selecionar a coluna B, por exemplo
+
+00:00:07.518 --> 00:00:09.198
+Clique em Formatação Condicional no
+
+00:00:09.198 --> 00:00:09.758
+separador Início
+
+00:00:10.855 --> 00:00:13.055
+Agora vamos definir os critérios que
+
+00:00:13.055 --> 00:00:15.335
+desencadeiam as suas regras de formatação. Pode 
+
+00:00:15.335 --> 00:00:16.975
+escolher entre regras como destacar
+
+00:00:16.975 --> 00:00:19.135
+valores superiores a um determinado número ou
+
+00:00:19.135 --> 00:00:20.695
+que contêm texto específico
+
+00:00:21.175 --> 00:00:23.415
+Vamos selecionar "texto que contém"
+
+00:00:24.571 --> 00:00:27.131
+Na secção da caixa de diálogo, defina os seus
+
+00:00:27.131 --> 00:00:29.691
+critérios. Por exemplo, se quiser
+
+00:00:29.691 --> 00:00:31.451
+destacar células que contêm a palavra "
+
+00:00:31.451 --> 00:00:34.411
+Alto", escreva "Alto" na caixa de texto e
+
+00:00:34.411 --> 00:00:37.131
+selecione "com preenchimento vermelho com texto vermelho escuro"
+
+00:00:38.483 --> 00:00:40.503
+Pode fazer o mesmo processo para as palavras "
+
+00:00:40.503 --> 00:00:43.243
+;médio" e "baixo" e escolher as
+
+00:00:43.243 --> 00:00:45.003
+cores em que deseja formatá-las
+
+00:00:50.250 --> 00:00:52.010
+Deve ver todas as células que contêm
+
+00:00:52.010 --> 00:00:54.210
+a palavra "Alto" agora destacadas da
+
+00:00:54.210 --> 00:00:56.530
+maneira que escolheu e assim por diante, permitindo uma
+
+00:00:56.530 --> 00:00:58.450
+priorização visual instantânea de
+
+00:00:58.450 --> 00:00:59.210
+dados importantes
+
+00:00:59.714 --> 00:01:01.994
+Esta regra também ajustará automaticamente
+
+00:01:01.994 --> 00:01:04.354
+o formato de quaisquer novas entradas que correspondam
+
+00:01:04.354 --> 00:01:05.634
+às palavras-chave especificadas
